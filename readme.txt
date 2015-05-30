@@ -29,6 +29,6 @@ What is the main website? :: Answer- Theshop.biz
 == Upgrade Notice ==
 None
 == Screenshots ==
-http://theshop.biz/fav.png
+01. **Store Front Look** - This is how a Store will look on your wordpress site.
 == Changelog ==
 None
