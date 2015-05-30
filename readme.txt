@@ -1,7 +1,7 @@
 === The Shop Biz===
 Contributors: NandiniGoel
 Donate link: http://educatemygirl.org/support.html
-Tags: online, store, theshop.biz
+Tags: online, store, theshop.biz, plugin, plugins
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
