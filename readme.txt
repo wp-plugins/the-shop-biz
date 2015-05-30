@@ -20,9 +20,10 @@ A few notes about the sections above:
 *   "3.0.1" is the lowest version that the plugin will work on
 == Installation ==
 This section describes how to install the plugin and get it working.
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Install the Plugin on your Wordpress Site
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Now you can provide your Users the button to create a Online Store
+3. Create an Account on TheShop.biz
+4. Use the Shortcode: [shop-biz username'your-username']Your Shop Name[/shop-biz]
 
 == Frequently Asked Questions ==
 What is the main website? :: Answer- Theshop.biz
