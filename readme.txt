@@ -1,7 +1,7 @@
 === The Shop Biz===
 Contributors: NandiniGoel
 Donate link: http://educatemygirl.org/support.html
-Tags: online, store, theshop.biz
+Tags: online, store, theshop.biz, plugin, plugins
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
@@ -31,6 +31,6 @@ None
 == Screenshots ==
 01. **Store Front Look** - This is how a Store will look on your wordpress site.
 02. **TheShop.biz Button in Menu Bar** - TheShop.biz Button will appear like this in the menu bar.
-03. **TheShop.biz WP Admin Page** - This is how theShop.biz Admin Page will look.
+03. **TheShop.biz WP Admin** - This is how theShop.biz Admin Page will look
 == Changelog ==
 None
