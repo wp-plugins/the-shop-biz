@@ -7,7 +7,9 @@ Tested up to: 3.4
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Here is a short description of the plugin.  
+TheShop.biz provides the Wordpress users with this easy to use Wordpress Plugin which can be used to create a online store in just a matter of few minutes.
+All the User needs to do is activate in and after that add a shortcode: <br />
+[shop-biz username"your-username"]TheShop Name[/shop-biz]<br />
 == Description ==
 TheShop.biz provides the Wordpress users with this easy to use Wordpress Plugin which can be used to create a online store in just a matter of few minutes.
 All the User needs to do is activate in and after that add a shortcode: <br />
