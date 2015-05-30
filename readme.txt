@@ -30,5 +30,7 @@ What is the main website? :: Answer- Theshop.biz
 None
 == Screenshots ==
 01. **Store Front Look** - This is how a Store will look on your wordpress site.
+02. **TheShop.biz Button in Menu Bar** - TheShop.biz Button will appear like this in the menu bar
+
 == Changelog ==
 None
