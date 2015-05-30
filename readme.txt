@@ -31,6 +31,6 @@ None
 == Screenshots ==
 01. **Store Front Look** - This is how a Store will look on your wordpress site.
 02. **TheShop.biz Button in Menu Bar** - TheShop.biz Button will appear like this in the menu bar.
-03. **TheShop.biz WP Admin Page** - This is how theShop.biz Admin Page will look.
+03. **TheShop.biz WP Admin Page** - This is how theShop.biz Admin Page will look
 == Changelog ==
 None
