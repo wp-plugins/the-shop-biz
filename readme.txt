@@ -23,7 +23,7 @@ This section describes how to install the plugin and get it working.
 1. Install the Plugin on your Wordpress Site
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Create an Account on TheShop.biz
-4. Use the Shortcode: [shop-biz username'your-username']Your Shop Name[/shop-biz]
+4. Use the Shortcode: <br /> [shop-biz username'your-username']Your Shop Name[/shop-biz]
 
 == Frequently Asked Questions ==
 What is the main website? :: Answer- Theshop.biz
