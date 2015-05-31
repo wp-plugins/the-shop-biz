@@ -14,11 +14,10 @@ All the User needs to do is activate in and after that add a shortcode: <br />
 TheShop.biz provides the Wordpress users with this easy to use Wordpress Plugin which can be used to create a online store in just a matter of few minutes.
 All the User needs to do is activate in and after that add a shortcode: <br />
 [shop-biz username"your-username"]TheShop Name[/shop-biz]<br />
-A few notes about the sections above:
-*   "NandiniGoel" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "theshop" is a comma separated list of tags that apply to the plugin
-*   "3.0.1" is the lowest version that the plugin will work on
-== Installation ==
+A few notes about the sections above: <br>
+* "NandiniGoel" is a comma delimited list of wp.org/wp-plugins.org usernames  
+* "theshop" is a comma delimited list of tags that apply to the plugin 
+* "3.0.1" is the lowest version that the plugin will work on.== Installation ==
 This section describes how to install the plugin and get it working.
 1. Install the Plugin on your Wordpress Site
 2. Activate the plugin through the 'Plugins' menu in WordPress
